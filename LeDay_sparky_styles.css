@@ -76,3 +76,59 @@ nav a:hover {
     background-color: #fff;
     color: #8c1d40;
 }
+
+main {
+    background-color: #fff;
+    padding: 24px;
+}
+
+main a {
+    background-color: #8c1d40;
+    font-weight: bold;
+}
+
+main a:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
+
+p, q {
+    color: #444;
+}
+
+q {
+    font-style: italic;
+}
+
+.year {
+    background-color: #ffc627;
+    color: #555;
+    padding: 4px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer h2 {
+    font-size: 24px;
+    margin: 8px;
+}
+
+address {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer a {
+    color: #fff;
+    display: inline-block;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    font-weight: normal;
+}
+
+footer a:hover{
+    color: #ffc627;
+}
